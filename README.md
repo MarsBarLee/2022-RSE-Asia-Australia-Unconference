@@ -1,6 +1,9 @@
 # 2022-RSE-Asia-Australia-Unconference
-Slides for 2022-RSE-Asia-Australia-Unconference (https://rse-aunz.github.io/2022-Asia-Australia-unconference/)
-![image](https://user-images.githubusercontent.com/46167686/190041970-6fac0e9c-bbe8-46e9-afdb-cff1787db8e4.png)
+Slides for my keynote at [2022-RSE-Asia-Australia-Unconference](https://rse-aunz.github.io/2022-Asia-Australia-unconference/)
+![A flyer showing the keynote speakers for the 2022-RSE-Asia-Australia-Unconference. The speakers are Mars Lee, Anne Steel and A/Prof Jess Mar](https://user-images.githubusercontent.com/46167686/191071814-7687ec2d-7a41-410c-9baa-5872213297dd.png)
+
+
+![First slide, captioned "An Unconventional Start: How Open Source Opened my Opportunities".](https://user-images.githubusercontent.com/46167686/190041970-6fac0e9c-bbe8-46e9-afdb-cff1787db8e4.png)
 
 - [Link to Google Slides version (has clickable links)](https://docs.google.com/presentation/d/1euxQClIGBMHEm4r8fcJUmRLU8sTbrFHCYLICjBPUhis/edit?usp=sharing)
 - [Link to PDF version (viewable on Github but no clickable links)](https://github.com/MarsBarLee/2022-RSE-Asia-Australia-Unconference/blob/main/An%20Unconventional%20Start_%20How%20Open%20Source%20Opened%20My%20Opportunities.pdf)
