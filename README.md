@@ -1,5 +1,5 @@
 # 2022-RSE-Asia-Australia-Unconference
-Slides for my keynote at [2022-RSE-Asia-Australia-Unconference](https://rse-aunz.github.io/2022-Asia-Australia-unconference/)
+Keynote speech and slides  t [2022-RSE-Asia-Australia-Unconference](https://rse-aunz.github.io/2022-Asia-Australia-unconference/)
 ![A flyer showing the keynote speakers for the 2022-RSE-Asia-Australia-Unconference. The speakers are Mars Lee, Anne Steel and A/Prof Jess Mar](https://user-images.githubusercontent.com/46167686/191071814-7687ec2d-7a41-410c-9baa-5872213297dd.png)
 
 
